@@ -25,7 +25,7 @@ JWT Authentication
 
 - frontend-roterize
 - backend-roterize
-## Hi there 👋
+
 
 <!--
 
